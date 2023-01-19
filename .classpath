@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Lucas/Downloads/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lucas/Downloads/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lucas/Downloads/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lucas/Downloads/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lucas/Downloads/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lucas/Downloads/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lucas/Downloads/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
